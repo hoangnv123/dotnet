@@ -12,6 +12,7 @@
 | 1 | Чупшев Н. В. | [Часть первая. Общие сведения. Создание иерархии классов](https://disk.yandex.ru/i/j9wcfV3SFObLIg) |
 | 1 | Чупшев Н. В. | [Часть вторая. Работа с CLI](https://disk.yandex.ru/i/59x2WuvxV4VU9A) |
 | 1 | Чупшев Н. В. | [Часть третья. Работа с файлами. XML. Репозиторий](https://disk.yandex.ru/i/1-mRwBMybvMVzQ) |
+| 1 | Чупшев Н. В. | [Часть четвертая. Команды. DI](https://disk.yandex.ru/i/qsm2Y-uefJ7HMg) |
 
 
 ## Видеозаписи лекций
