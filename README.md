@@ -22,8 +22,8 @@
 | Чупшев Н. В. | [1.2. Работа с CLI](https://disk.yandex.ru/i/59x2WuvxV4VU9A) |
 | Чупшев Н. В. | [1.3. Работа с файлами. XML. Репозиторий](https://disk.yandex.ru/i/1-mRwBMybvMVzQ) |
 | Чупшев Н. В. | [1.4. Команды. DI](https://disk.yandex.ru/i/qsm2Y-uefJ7HMg) |
-| Юзькив Р. Р. | [1.5. Утилита dotnet. Configuration. xUnit](https://vimeo.com/676628798) |
-
+| Юзькив Р. Р. | [ОПЦИОНАЛЬНО: Утилита dotnet](https://vimeo.com/676632243) |
+| Юзькив Р. Р. | [ОПЦИОНАЛЬНО: Configuration, xUnit](https://vimeo.com/676632280) |
 
 ## Видеозаписи лекций
 
