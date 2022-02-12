@@ -1,6 +1,8 @@
 # Промышленное программирование
 
+## Содержание
 - [Оформление кода](#оформление-кода)
+- [Лабораторные работы](#лабораторные-работы)
 - [Видеозаписи лабораторных работ](#видеозаписи-лабораторных-работ)
 - [Видеозаписи лекций](#видеозаписи-лекций)
 
@@ -13,6 +15,10 @@
 | Microsoft | [С#: Базовые соглашения по коду](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) |
 | Microsoft | [Рекомендации по оформлению кода для исходников .NET](https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md) |
 | Google | [Рекомендации по оформлению кода на C# от компании Google](https://google.github.io/styleguide/csharp-style.html) |
+
+## Лабораторные работы
+
+- [Лабораторная работа № 1](https://github.com/itsec-labs/dotnet-1)
 
 ## Видеозаписи лабораторных работ
 
