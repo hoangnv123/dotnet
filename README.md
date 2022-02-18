@@ -1,26 +1,48 @@
 # Промышленное программирование
 
 ## Содержание
-- [Оформление кода](#оформление-кода)
 - [Лабораторные работы](#лабораторные-работы)
-- [Видеозаписи лабораторных работ](#видеозаписи-лабораторных-работ)
-- [Видеозаписи лекций](#видеозаписи-лекций)
-
-## Оформление кода
-
-При написании кода нужно придерживаться одного из общепринятых стилей:
-
-| Источник | Стиль |
-| --- | --- |
-| Microsoft | [С#: Базовые соглашения по коду](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) |
-| Microsoft | [Рекомендации по оформлению кода для исходников .NET](https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md) |
-| Google | [Рекомендации по оформлению кода на C# от компании Google](https://google.github.io/styleguide/csharp-style.html) |
+- [Лекции](#лекции)
 
 ## Лабораторные работы
 
-- [Лабораторная работа № 1](https://github.com/itsec-labs/dotnet-1)
+При написании кода нужно придерживаться одного из общепринятых стилей:
 
-## Видеозаписи лабораторных работ
+- [Microsoft. С#: Базовые соглашения по коду](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+- [Microsoft. Рекомендации по оформлению кода для исходников .NET](https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md)
+- [Google. Рекомендации по оформлению кода на C# от компании Google](https://google.github.io/styleguide/csharp-style.html)
+
+<table>
+  <tr>
+    <th>Репозиторий с заданием</th>
+    <th colspan="2">Материалы</th>
+  </tr>
+  <tr>
+    <td rowspan="6">Лабораторная работа № 1<br/><a href="https://github.com/itsec-labs/dotnet-1">https://github.com/itsec-labs/dotnet-1</a></td>
+    <td>Чупшев Н. В.</td>
+    <td>TODO</td>
+  </tr>
+  <tr>
+    <td>Чупшев Н. В.</td>
+    <td>TODO</td>
+  </tr>
+  <tr>
+    <td>Чупшев Н. В.</td>
+    <td>TODO</td>
+  </tr>
+  <tr>
+    <td>Чупшев Н. В.</td>
+    <td>TODO</td>
+  </tr>
+  <tr>
+    <td>Юзькив Р. Р.</td>
+    <td>TODO</td>
+  </tr>
+  <tr>
+    <td>Юзькив Р. Р.</td>
+    <td>TODO</td>
+  </tr>
+</table>
 
 | Лектор | Видео |
 | --- | --- |
@@ -31,9 +53,9 @@
 | Юзькив Р. Р. | [ОПЦИОНАЛЬНО. Утилита dotnet](https://vimeo.com/676632243) |
 | Юзькив Р. Р. | [ОПЦИОНАЛЬНО. Configuration. xUnit](https://vimeo.com/676632280) |
 
-## Видеозаписи лекций
+## Лекции
 
-| Дата | Лектор | Видео |
-| --- | --- | --- |
-| 08.02 | Юзькив Р. Р. | [1.1. Обзор .NET. Типы значений и ссылочные типы](https://vimeo.com/674939382) |
-| 08.02 | Юзькив Р. Р. | [1.2. Типы значений и ссылочные типы](https://vimeo.com/674940712) |
+| Дата | Видео |
+| --- | --- |
+| 08.02 | [1.1. Обзор .NET. Типы значений и ссылочные типы](https://vimeo.com/674939382) |
+| 08.02 | [1.2. Типы значений и ссылочные типы](https://vimeo.com/674940712) |
