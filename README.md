@@ -20,38 +20,29 @@
   <tr>
     <td rowspan="6">Лабораторная работа № 1<br/><a href="https://github.com/itsec-labs/dotnet-1">https://github.com/itsec-labs/dotnet-1</a></td>
     <td>Чупшев Н. В.</td>
-    <td>TODO</td>
+    <td><a href="https://disk.yandex.ru/i/j9wcfV3SFObLIg">1.1. Общие сведения. Создание иерархии классов</a></td>
   </tr>
   <tr>
     <td>Чупшев Н. В.</td>
-    <td>TODO</td>
+    <td><a href="https://disk.yandex.ru/i/59x2WuvxV4VU9A">1.2. Работа с CLI</a></td>
   </tr>
   <tr>
     <td>Чупшев Н. В.</td>
-    <td>TODO</td>
+    <td><a href="https://disk.yandex.ru/i/1-mRwBMybvMVzQ">1.3. Работа с файлами. XML. Репозиторий</a></td>
   </tr>
   <tr>
     <td>Чупшев Н. В.</td>
-    <td>TODO</td>
+    <td><a href="https://disk.yandex.ru/i/qsm2Y-uefJ7HMg">1.4. Команды. DI</a></td>
   </tr>
   <tr>
     <td>Юзькив Р. Р.</td>
-    <td>TODO</td>
+    <td><a href="https://vimeo.com/676632243">Дополнительные темы. Утилита dotnet</a></td>
   </tr>
   <tr>
     <td>Юзькив Р. Р.</td>
-    <td>TODO</td>
+    <td><a href="https://vimeo.com/676632280">Дополнительные темы. Configuration. xUnit</a></td>
   </tr>
 </table>
-
-| Лектор | Видео |
-| --- | --- |
-| Чупшев Н. В. | [1.1. Общие сведения. Создание иерархии классов](https://disk.yandex.ru/i/j9wcfV3SFObLIg) |
-| Чупшев Н. В. | [1.2. Работа с CLI](https://disk.yandex.ru/i/59x2WuvxV4VU9A) |
-| Чупшев Н. В. | [1.3. Работа с файлами. XML. Репозиторий](https://disk.yandex.ru/i/1-mRwBMybvMVzQ) |
-| Чупшев Н. В. | [1.4. Команды. DI](https://disk.yandex.ru/i/qsm2Y-uefJ7HMg) |
-| Юзькив Р. Р. | [ОПЦИОНАЛЬНО. Утилита dotnet](https://vimeo.com/676632243) |
-| Юзькив Р. Р. | [ОПЦИОНАЛЬНО. Configuration. xUnit](https://vimeo.com/676632280) |
 
 ## Лекции
 
