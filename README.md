@@ -107,30 +107,30 @@
   </tr>
   <tr>
     <td>19.04</td>
-    <td></td>
+    <td>10. Reflection, unsafe context & native interoperability</td>
   </tr>
   <tr>
     <td>29.04</td>
-    <td></td>
+    <td>11. SOLID</td>
   </tr>
   <tr>
     <td>13.05</td>
-    <td></td>
+    <td>12. Порождающие паттерны GoF</td>
   </tr>
   <tr>
     <td>17.05</td>
-    <td></td>
+    <td>13. Структурные паттерны GoF</td>
   </tr>
   <tr>
     <td>27.05</td>
-    <td></td>
+    <td>14. Поведенческие паттерны GoF</td>
   </tr>
   <tr>
     <td>31.05</td>
-    <td></td>
+    <td>15. Резерв</td>
   </tr>
   <tr>
     <td>10.06</td>
-    <td></td>
+    <td>16. Резерв</td>
   </tr>
 </table>
