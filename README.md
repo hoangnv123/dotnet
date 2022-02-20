@@ -65,4 +65,72 @@
   <tr>
     <td><a href="https://vimeo.com/679120776">2.2. Наследование и полиморфизм</a></td>
   </tr>
+  <tr>
+    <td rowspan="2">22.02</td>
+    <td>3.1. Обобщения. Ковариантность и контравариантность</td>
+  </tr>
+  <tr>
+    <td>3.2. Обобщённые контейнеры</td>
+  </tr>
+  <tr>
+    <td rowspan="2">04.03</td>
+    <td>4.1. Делегаты. События. Лямбды</td>
+  </tr>
+  <tr>
+    <td>4.2. LINQ</td>
+  </tr>
+  <tr>
+    <td rowspan="2">18.03</td>
+    <td>5.1. Исключения. Сборщик мусора</td>
+  </tr>
+  <tr>
+    <td>5.2. Финализаторы и паттерны Dispose</td>
+  </tr>
+  <tr>
+    <td rowspan="2">22.03</td>
+    <td>6.1. Многопоточность. Task Parallel Library</td>
+  </tr>
+  <tr>
+    <td>6.2. Асинхронность</td>
+  </tr>
+  <tr>
+    <td>01.04</td>
+    <td>7. UI: XAML</td>
+  </tr>
+  <tr>
+    <td>05.04</td>
+    <td>8. UI: Bindings, Converters & Commands</td>
+  </tr>
+  <tr>
+    <td>15.04</td>
+    <td>9. UI: MVVM & ReactiveUI</td>
+  </tr>
+  <tr>
+    <td>19.04</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>29.04</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>13.05</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>17.05</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>27.05</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>31.05</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10.06</td>
+    <td></td>
+  </tr>
 </table>
