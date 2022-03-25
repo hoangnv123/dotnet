@@ -14,7 +14,7 @@ namespace Lab1cs
             serviceCollection.AddSingleton<IFigureRepository, FigureRepository>();
             var registrar = new TypeRegistrar(serviceCollection);
             var app = new CommandApp(registrar);
-            app.Configure(config => 
+            app.Configure(config =>
             {
                 config.AddCommand<FigureCommands>("Add");
                 config.AddCommand<ClearAllFigure>("Clear");
@@ -23,6 +23,7 @@ namespace Lab1cs
                 config.AddCommand<PrintListFigure>("Print");
             });
             app.Run(args);
-        }      
+
+        }
     }
 }
